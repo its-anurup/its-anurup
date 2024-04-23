@@ -10,3 +10,10 @@
 its-anurup/its-anurup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+To use edit this project, follow these steps:
+
+1. Clone the repository.
+2. Make your changes.
+3. Commit your changes.
+4. Push your changes to GitHub.
